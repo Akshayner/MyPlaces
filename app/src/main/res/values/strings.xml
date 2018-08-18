@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyPlaces</string>
+    <string-array name="type">
+        <item>Select</item>
+        <item>atm</item>
+        <item>school</item>
+        <item>restaurant</item>
+        <item>bank</item>
+        <item>hindu temple</item>
+        <item>mosque</item>
+    </string-array>
+</resources>
